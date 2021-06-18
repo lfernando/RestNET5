@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "F0UetrGxThjSkAukgLzHcQs+xqknW949beh2fhQvbVix00IFkeCxWK4q2T43vANECDATyEWQAQqA5u9i3pvg3Q==",
+  "dgSpecHash": "gg5nLS3+3rPA/1zBvkeSemOciK7GbRDqn1JGwq1p7Qd8hXjVdnhjqlABJxoE3hEZ3bVrfjjlgDwrKyQPWZ5uZw==",
   "success": true,
   "projectFilePath": "C:\\Users\\luisf\\source\\repos\\RestNET5\\RestNET5\\RestNET5\\RestNET5.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luisf\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\luisf\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\luisf\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\luisf\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\luisf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\luisf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
   "logs": []
 }

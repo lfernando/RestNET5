@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestNET5", "RestNET5\RestNET5.csproj", "{0897816E-670F-4780-85FA-0F926730A74C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestNET5", "RestNET5\RestNET5.csproj", "{5AD7C008-B0B2-4E24-97E2-BEA79A8EF5A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0897816E-670F-4780-85FA-0F926730A74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0897816E-670F-4780-85FA-0F926730A74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0897816E-670F-4780-85FA-0F926730A74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0897816E-670F-4780-85FA-0F926730A74C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD7C008-B0B2-4E24-97E2-BEA79A8EF5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD7C008-B0B2-4E24-97E2-BEA79A8EF5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD7C008-B0B2-4E24-97E2-BEA79A8EF5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD7C008-B0B2-4E24-97E2-BEA79A8EF5A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F3DC0324-A668-41F3-9CE7-18EF93A10238}
+		SolutionGuid = {B1B8E7CD-7F1C-4A86-8E56-907DBE6DC30F}
 	EndGlobalSection
 EndGlobal
